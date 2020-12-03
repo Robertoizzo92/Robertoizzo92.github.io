@@ -61,6 +61,7 @@ input[type="submit"]:hover {
 }
 .add-items {
 	margin-top: 20px;
+	margin: 10px;
 }
 .add-items input {
 	padding: 10px;
