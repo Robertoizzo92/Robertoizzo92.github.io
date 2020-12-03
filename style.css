@@ -26,8 +26,9 @@ svg {
 }
 .wrapper {
 	padding: 20px;
-	max-width: 350px;
-	background: rgba(255,255,255,0.95);
+	border-radius: 15px;
+	max-width: 4000px;
+	background: rgba(10, 10, 10, 0.39);
 	box-shadow: 0 0 0 10px rgba(0,0,0,0.1);
 }
 h2 {
