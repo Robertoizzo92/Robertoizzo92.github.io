@@ -55,6 +55,10 @@ h5 {
 	font-weight: 100;
 	display: flex;
 }
+input[type="submit"]:hover {
+	background-color: rgba(5, 5, 5, 0.425);
+	color: rgb(255, 255, 255);
+}
 .add-items {
 	margin-top: 20px;
 }
